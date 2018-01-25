@@ -10,3 +10,5 @@ this is a file difference tool made using longest common subsequence algorithm,<
   </ul>
   <br> yattag is used to generate the html code from python
 </div>
+  <br>
+<footer><p>created after watching <strong>am;your move </strong> youtube channel  applicative algorithms playlist <p></footer>
